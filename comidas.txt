@@ -1,4 +1,3 @@
 arroz
 carne
 lechuga
-tomate
