@@ -1,3 +1,6 @@
 arroz
 carne
 lechuga
+aceitunas
+manteca
+sopa
